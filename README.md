@@ -1,4 +1,5 @@
 # Morris-Worm-Digital-Forensics-Lab
+By: Joshua Radjavitch and Jared Burns
 
 Steps to replicate the Lab:
 - Download and setup the SEED Ubuntu 20.04 Virtual Machine
